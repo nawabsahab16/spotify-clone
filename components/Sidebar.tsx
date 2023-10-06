@@ -35,6 +35,8 @@ const Sidebar: React.FC<SidebarProps> = ({
             href: '/search',
 
         }
+
+
     ], []);
 
     return (
